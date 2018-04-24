@@ -1,3 +1,5 @@
+# Web-Challenge-Server
+Web-Challenge-Server is a "fake" REST API for testing and prototyping powered by [JSON-Server](https://github.com/typicode/json-server).
 
 #### Get Breeds Data
 ```
@@ -20,7 +22,7 @@ POST /users
 GET /users/5
 ```
 
-### Create a New Wish-List
+#### Create a New Wish-List
 ```
 POST /lists
 
@@ -32,7 +34,7 @@ request body JSON: { "userId": 5, "list": [] }
 GET /users/5/lists
 ```
 
-### Update a Wish-List by List ID
+#### Update a Wish-List by List ID
 ```
 PUT /lists/2
 
