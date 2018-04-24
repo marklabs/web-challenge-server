@@ -1,0 +1,15 @@
+{
+  "name": "web-challenge-server",
+  "version": "1.0.0",
+  "description": "Simple json-base database for making a dog breed wish list",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Wag Labs",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}

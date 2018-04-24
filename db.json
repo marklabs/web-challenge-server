@@ -1,0 +1,470 @@
+{
+  "breeds": [
+    {
+      "id": 1,
+      "breed": "Airedale"
+    },
+    {
+      "id": 2,
+      "breed": "American Cocker Spaniel"
+    },
+    {
+      "id": 3,
+      "breed": "American Eskimo"
+    },
+    {
+      "id": 4,
+      "breed": "Anatolian Shepherd"
+    },
+    {
+      "id": 5,
+      "breed": "Australian Cattle Dog Mix"
+    },
+    {
+      "id": 6,
+      "breed": "Australian Kelpie"
+    },
+    {
+      "id": 7,
+      "breed": "Basset Hound"
+    },
+    {
+      "id": 8,
+      "breed": "Basset Hound Mix"
+    },
+    {
+      "id": 9,
+      "breed": "Bernese"
+    },
+    {
+      "id": 10,
+      "breed": "Bernese Mountain Dog"
+    },
+    {
+      "id": 11,
+      "breed": "Blue Nose Pit"
+    },
+    {
+      "id": 12,
+      "breed": "Blue Nose Pitbull"
+    },
+    {
+      "id": 13,
+      "breed": "Boston"
+    },
+    {
+      "id": 14,
+      "breed": "Boston Terrier"
+    },
+    {
+      "id": 15,
+      "breed": "Briard"
+    },
+    {
+      "id": 16,
+      "breed": "Brittany"
+    },
+    {
+      "id": 17,
+      "breed": "Bully Pit"
+    },
+    {
+      "id": 18,
+      "breed": "Cairn"
+    },
+    {
+      "id": 19,
+      "breed": "Cattle Dog"
+    },
+    {
+      "id": 20,
+      "breed": "Cattle Dog Mix"
+    },
+    {
+      "id": 21,
+      "breed": "Chihuahua"
+    },
+    {
+      "id": 22,
+      "breed": "Chihuahua Dachshund"
+    },
+    {
+      "id": 23,
+      "breed": "Chiweenie"
+    },
+    {
+      "id": 24,
+      "breed": "Choc Lab"
+    },
+    {
+      "id": 25,
+      "breed": "Cocker Spaniel"
+    },
+    {
+      "id": 26,
+      "breed": "Cocker Spaniel Mix"
+    },
+    {
+      "id": 27,
+      "breed": "Coton De Tulear"
+    },
+    {
+      "id": 28,
+      "breed": "Dachshund"
+    },
+    {
+      "id": 29,
+      "breed": "Doberman Pinscher"
+    },
+    {
+      "id": 30,
+      "breed": "Dutch Shepherd"
+    },
+    {
+      "id": 31,
+      "breed": "English Bull Terrier"
+    },
+    {
+      "id": 32,
+      "breed": "English Springer Spaniel"
+    },
+    {
+      "id": 33,
+      "breed": "Frenchie"
+    },
+    {
+      "id": 34,
+      "breed": "Frenchton"
+    },
+    {
+      "id": 35,
+      "breed": "German Shepherd Mix"
+    },
+    {
+      "id": 36,
+      "breed": "German Sherpard"
+    },
+    {
+      "id": 37,
+      "breed": "Golden Retriever"
+    },
+    {
+      "id": 38,
+      "breed": "Golden Retriever Mix"
+    },
+    {
+      "id": 39,
+      "breed": "Greyhound Mix"
+    },
+    {
+      "id": 40,
+      "breed": "Hound Mix"
+    },
+    {
+      "id": 41,
+      "breed": "Husky"
+    },
+    {
+      "id": 42,
+      "breed": "Jack Russell"
+    },
+    {
+      "id": 43,
+      "breed": "Jack Russell Chihuahua"
+    },
+    {
+      "id": 44,
+      "breed": "Kelpie"
+    },
+    {
+      "id": 45,
+      "breed": "King Charles"
+    },
+    {
+      "id": 46,
+      "breed": "Lab Pit"
+    },
+    {
+      "id": 47,
+      "breed": "Lab Pit Mix"
+    },
+    {
+      "id": 48,
+      "breed": "Labrador Retriever"
+    },
+    {
+      "id": 49,
+      "breed": "Labrador Retriever Mix"
+    },
+    {
+      "id": 50,
+      "breed": "Long Haired Chihuahua"
+    },
+    {
+      "id": 51,
+      "breed": "Long Haired Dachshund"
+    },
+    {
+      "id": 52,
+      "breed": "Maltese Shih Tzu"
+    },
+    {
+      "id": 53,
+      "breed": "Maltese Terrier"
+    },
+    {
+      "id": 54,
+      "breed": "Min Pin Mix"
+    },
+    {
+      "id": 55,
+      "breed": "Mini Poodle"
+    },
+    {
+      "id": 56,
+      "breed": "Mini Poodle Mix"
+    },
+    {
+      "id": 57,
+      "breed": "Mix Breed"
+    },
+    {
+      "id": 58,
+      "breed": "Morkie"
+    },
+    {
+      "id": 59,
+      "breed": "Morkiepoo"
+    },
+    {
+      "id": 60,
+      "breed": "Old English Sheepdog"
+    },
+    {
+      "id": 61,
+      "breed": "Olde English Bulldogge"
+    },
+    {
+      "id": 62,
+      "breed": "Pincher"
+    },
+    {
+      "id": 63,
+      "breed": "Pit"
+    },
+    {
+      "id": 64,
+      "breed": "Pitbull Terrier Mix"
+    },
+    {
+      "id": 65,
+      "breed": "Pitsky"
+    },
+    {
+      "id": 66,
+      "breed": "Poochon"
+    },
+    {
+      "id": 67,
+      "breed": "Poodle"
+    },
+    {
+      "id": 68,
+      "breed": "Puppy"
+    },
+    {
+      "id": 69,
+      "breed": "Queensland Heeler"
+    },
+    {
+      "id": 70,
+      "breed": "Rhodesian Ridgeback Mix"
+    },
+    {
+      "id": 71,
+      "breed": "Ridgeback"
+    },
+    {
+      "id": 72,
+      "breed": "Schipperke"
+    },
+    {
+      "id": 73,
+      "breed": "Schnauzer"
+    },
+    {
+      "id": 74,
+      "breed": "Sheltie"
+    },
+    {
+      "id": 75,
+      "breed": "Sheltie Mix"
+    },
+    {
+      "id": 76,
+      "breed": "Shih Tzu Mix"
+    },
+    {
+      "id": 77,
+      "breed": "Shihtzu Maltese"
+    },
+    {
+      "id": 78,
+      "breed": "Silver Lab"
+    },
+    {
+      "id": 79,
+      "breed": "St Bernard"
+    },
+    {
+      "id": 80,
+      "breed": "Staffordshire"
+    },
+    {
+      "id": 81,
+      "breed": "Toy Australian Shepherd"
+    },
+    {
+      "id": 82,
+      "breed": "Toy Fox Terrier"
+    },
+    {
+      "id": 83,
+      "breed": "Weiner Dog"
+    },
+    {
+      "id": 84,
+      "breed": "Welsh Corgi"
+    },
+    {
+      "id": 85,
+      "breed": "Whippet Mix"
+    },
+    {
+      "id": 86,
+      "breed": "White German Shepherd"
+    },
+    {
+      "id": 87,
+      "breed": "Yorkie"
+    },
+    {
+      "id": 88,
+      "breed": "Yorkie Mix"
+    }
+  ],
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    }
+  ],
+  "lists": [
+    {
+      "userId": 1,
+      "list": [
+        {
+          "breed-id": 77
+        },
+        {
+          "breed-id": 17
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "list": [
+        {
+          "breed-id": 77
+        },
+        {
+          "breed-id": 17
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "list": [
+        {
+          "breed-id": 77
+        },
+        {
+          "breed-id": 17
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "list": [
+        {
+          "breed-id": 77
+        },
+        {
+          "breed-id": 17
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "list": [
+        {
+          "breedId": 9
+        },
+        {
+          "breedId": 19
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "list": [],
+      "id": 6
+    },
+    {
+      "userId": 7,
+      "list": [
+        {
+          "breedId": 44
+        },
+        {
+          "breedId": 4
+        }
+      ],
+      "id": 8
+    }
+  ]
+}
